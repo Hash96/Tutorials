@@ -1,0 +1,5 @@
+C:\Users\Hashm\source\repos\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\Hashm\source\repos\project1\project1\obj\Debug\MainWindow.g.cs
+C:\Users\Hashm\source\repos\project1\project1\obj\Debug\App.g.cs
+C:\Users\Hashm\source\repos\project1\project1\obj\Debug\project1_MarkupCompile.cache
+C:\Users\Hashm\source\repos\project1\project1\obj\Debug\project1_MarkupCompile.lref
