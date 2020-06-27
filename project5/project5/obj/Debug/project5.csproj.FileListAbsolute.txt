@@ -1,0 +1,6 @@
+C:\Users\Hashm\source\repos\project5\project5\bin\Debug\project5.exe.config
+C:\Users\Hashm\source\repos\project5\project5\bin\Debug\project5.exe
+C:\Users\Hashm\source\repos\project5\project5\bin\Debug\project5.pdb
+C:\Users\Hashm\source\repos\project5\project5\obj\Debug\project5.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\source\repos\project5\project5\obj\Debug\project5.exe
+C:\Users\Hashm\source\repos\project5\project5\obj\Debug\project5.pdb
