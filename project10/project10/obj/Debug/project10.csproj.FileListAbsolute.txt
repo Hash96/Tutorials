@@ -1,0 +1,7 @@
+C:\Users\Hashm\source\repos\project10\project10\bin\Debug\project10.exe.config
+C:\Users\Hashm\source\repos\project10\project10\bin\Debug\project10.exe
+C:\Users\Hashm\source\repos\project10\project10\bin\Debug\project10.pdb
+C:\Users\Hashm\source\repos\project10\project10\obj\Debug\project10.csprojAssemblyReference.cache
+C:\Users\Hashm\source\repos\project10\project10\obj\Debug\project10.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\source\repos\project10\project10\obj\Debug\project10.exe
+C:\Users\Hashm\source\repos\project10\project10\obj\Debug\project10.pdb
