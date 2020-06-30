@@ -1,0 +1,10 @@
+C:\Users\Hashm\source\repos\project13\project13\bin\Debug\project13.exe.config
+C:\Users\Hashm\source\repos\project13\project13\bin\Debug\project13.exe
+C:\Users\Hashm\source\repos\project13\project13\bin\Debug\project13.pdb
+C:\Users\Hashm\source\repos\project13\project13\obj\Debug\project13.csprojAssemblyReference.cache
+C:\Users\Hashm\source\repos\project13\project13\obj\Debug\project13.Form1.resources
+C:\Users\Hashm\source\repos\project13\project13\obj\Debug\project13.Properties.Resources.resources
+C:\Users\Hashm\source\repos\project13\project13\obj\Debug\project13.csproj.GenerateResource.cache
+C:\Users\Hashm\source\repos\project13\project13\obj\Debug\project13.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\source\repos\project13\project13\obj\Debug\project13.exe
+C:\Users\Hashm\source\repos\project13\project13\obj\Debug\project13.pdb
