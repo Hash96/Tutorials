@@ -1,0 +1,11 @@
+C:\Users\Hashm\source\repos\project18\project18\bin\Debug\project18.exe.config
+C:\Users\Hashm\source\repos\project18\project18\bin\Debug\project18.exe
+C:\Users\Hashm\source\repos\project18\project18\bin\Debug\project18.pdb
+C:\Users\Hashm\source\repos\project18\project18\obj\Debug\project18.csprojAssemblyReference.cache
+C:\Users\Hashm\source\repos\project18\project18\obj\Debug\project18.Form1.resources
+C:\Users\Hashm\source\repos\project18\project18\obj\Debug\project18.Properties.Resources.resources
+C:\Users\Hashm\source\repos\project18\project18\obj\Debug\project18.csproj.GenerateResource.cache
+C:\Users\Hashm\source\repos\project18\project18\obj\Debug\project18.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\source\repos\project18\project18\obj\Debug\project18.exe
+C:\Users\Hashm\source\repos\project18\project18\obj\Debug\project18.pdb
+C:\Users\Hashm\source\repos\project18\project18\obj\Debug\project18.Form2.resources
