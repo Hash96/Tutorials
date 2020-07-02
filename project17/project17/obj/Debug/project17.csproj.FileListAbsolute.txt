@@ -1,0 +1,10 @@
+C:\Users\Hashm\source\repos\project17\project17\bin\Debug\project17.exe.config
+C:\Users\Hashm\source\repos\project17\project17\bin\Debug\project17.exe
+C:\Users\Hashm\source\repos\project17\project17\bin\Debug\project17.pdb
+C:\Users\Hashm\source\repos\project17\project17\obj\Debug\project17.btn1.resources
+C:\Users\Hashm\source\repos\project17\project17\obj\Debug\project17.Properties.Resources.resources
+C:\Users\Hashm\source\repos\project17\project17\obj\Debug\project17.csproj.GenerateResource.cache
+C:\Users\Hashm\source\repos\project17\project17\obj\Debug\project17.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\source\repos\project17\project17\obj\Debug\project17.exe
+C:\Users\Hashm\source\repos\project17\project17\obj\Debug\project17.pdb
+C:\Users\Hashm\source\repos\project17\project17\obj\Debug\project17.csprojAssemblyReference.cache
