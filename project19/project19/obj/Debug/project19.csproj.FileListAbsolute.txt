@@ -1,0 +1,11 @@
+C:\Users\Hashm\source\repos\project19\project19\bin\Debug\project19.exe.config
+C:\Users\Hashm\source\repos\project19\project19\bin\Debug\project19.exe
+C:\Users\Hashm\source\repos\project19\project19\bin\Debug\project19.pdb
+C:\Users\Hashm\source\repos\project19\project19\obj\Debug\project19.csprojAssemblyReference.cache
+C:\Users\Hashm\source\repos\project19\project19\obj\Debug\project19.Form1.resources
+C:\Users\Hashm\source\repos\project19\project19\obj\Debug\project19.Properties.Resources.resources
+C:\Users\Hashm\source\repos\project19\project19\obj\Debug\project19.csproj.GenerateResource.cache
+C:\Users\Hashm\source\repos\project19\project19\obj\Debug\project19.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\source\repos\project19\project19\obj\Debug\project19.exe
+C:\Users\Hashm\source\repos\project19\project19\obj\Debug\project19.pdb
+C:\Users\Hashm\source\repos\project19\project19\obj\Debug\project19.Form2.resources
