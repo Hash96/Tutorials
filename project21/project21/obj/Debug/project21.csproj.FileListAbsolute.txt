@@ -1,0 +1,12 @@
+C:\Users\Hashm\source\repos\project21\project21\bin\Debug\project21.exe.config
+C:\Users\Hashm\source\repos\project21\project21\bin\Debug\project21.exe
+C:\Users\Hashm\source\repos\project21\project21\bin\Debug\project21.pdb
+C:\Users\Hashm\source\repos\project21\project21\obj\Debug\project21.csprojAssemblyReference.cache
+C:\Users\Hashm\source\repos\project21\project21\obj\Debug\project21.Form1.resources
+C:\Users\Hashm\source\repos\project21\project21\obj\Debug\project21.Properties.Resources.resources
+C:\Users\Hashm\source\repos\project21\project21\obj\Debug\project21.csproj.GenerateResource.cache
+C:\Users\Hashm\source\repos\project21\project21\obj\Debug\project21.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\source\repos\project21\project21\obj\Debug\project21.exe
+C:\Users\Hashm\source\repos\project21\project21\obj\Debug\project21.pdb
+C:\Users\Hashm\source\repos\project21\project21\obj\Debug\project21.Form2.resources
+C:\Users\Hashm\source\repos\project21\project21\obj\Debug\project21.Form3.resources
