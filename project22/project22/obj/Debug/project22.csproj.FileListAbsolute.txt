@@ -1,0 +1,10 @@
+C:\Users\Hashm\source\repos\project22\project22\bin\Debug\project22.exe.config
+C:\Users\Hashm\source\repos\project22\project22\bin\Debug\project22.exe
+C:\Users\Hashm\source\repos\project22\project22\bin\Debug\project22.pdb
+C:\Users\Hashm\source\repos\project22\project22\obj\Debug\project22.csprojAssemblyReference.cache
+C:\Users\Hashm\source\repos\project22\project22\obj\Debug\project22.Form1.resources
+C:\Users\Hashm\source\repos\project22\project22\obj\Debug\project22.Properties.Resources.resources
+C:\Users\Hashm\source\repos\project22\project22\obj\Debug\project22.csproj.GenerateResource.cache
+C:\Users\Hashm\source\repos\project22\project22\obj\Debug\project22.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\source\repos\project22\project22\obj\Debug\project22.exe
+C:\Users\Hashm\source\repos\project22\project22\obj\Debug\project22.pdb
