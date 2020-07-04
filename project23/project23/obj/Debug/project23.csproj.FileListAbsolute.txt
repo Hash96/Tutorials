@@ -1,0 +1,10 @@
+C:\Users\Hashm\source\repos\project23\project23\bin\Debug\project23.exe.config
+C:\Users\Hashm\source\repos\project23\project23\bin\Debug\project23.exe
+C:\Users\Hashm\source\repos\project23\project23\bin\Debug\project23.pdb
+C:\Users\Hashm\source\repos\project23\project23\obj\Debug\project23.csprojAssemblyReference.cache
+C:\Users\Hashm\source\repos\project23\project23\obj\Debug\project23.Form1.resources
+C:\Users\Hashm\source\repos\project23\project23\obj\Debug\project23.Properties.Resources.resources
+C:\Users\Hashm\source\repos\project23\project23\obj\Debug\project23.csproj.GenerateResource.cache
+C:\Users\Hashm\source\repos\project23\project23\obj\Debug\project23.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\source\repos\project23\project23\obj\Debug\project23.exe
+C:\Users\Hashm\source\repos\project23\project23\obj\Debug\project23.pdb
